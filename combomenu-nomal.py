@@ -1,5 +1,5 @@
 import time
-
+print("hi")
 sandwich_prices = {"chicken":5.25, "beef":6.25, "tofu":5.75}
 drink_prices = {"small":1.00, "medium":1.75, "large":2.25, 0:0}
 fri_prices = {"small":1.00, "medium":1.50, "large":2.00, 0:0}
